@@ -2,7 +2,7 @@ hello git! hello atguigu!222222
 hello git! hello atguigu!3333333
 hello git! hello atguigu!4444444 by hot-fix
 hello git! hello atguigu!push test
-hello git! hello atguigu!
+hello git! hello atguigu!pull test
 hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
